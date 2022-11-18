@@ -1,3 +1,7 @@
+
+** Author :**
+# Prudvi Manukonda**
+
 # Weather-App-Using-python-Tkinter
 
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
@@ -34,6 +38,4 @@ To get the Timezone and time i have used the pytz module and timezonefinder modu
 ![Empty Gui](https://user-images.githubusercontent.com/87264935/163683668-f659b80e-2ef2-4553-99d2-6f0728c7a968.png)
 ![Output](https://user-images.githubusercontent.com/87264935/163683683-1b0c70c1-0c52-46d2-b7a9-962626c15238.png)
 
-### Author:
-**Prudvi Manukonda**
 
