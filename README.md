@@ -1,6 +1,5 @@
-
-** Author :**
-# Prudvi Manukonda**
+### Author:
+# Prudvi Manukonda
 
 # Weather-App-Using-python-Tkinter
 
