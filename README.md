@@ -1,6 +1,9 @@
 ### Author:
 # Prudvi Manukonda
 
+# Sama Ambreen
+# Sriteja
+
 # Weather-App-Using-python-Tkinter
 
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
