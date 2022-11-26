@@ -1,10 +1,10 @@
-### Author:
+### Authors:
 # Prudvi Manukonda
 
 # Sama Ambreen
 # Sriteja
 
-# Weather-App-Using-python-Tkinter
+# weather-app
 
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
 ![weather](https://img.shields.io/badge/API-openweather-blue?style=flat-square&logo=api)
@@ -32,6 +32,15 @@ Create Your account in this and get the api key and refer the documentation</br>
 used the thread module to click on the search button so smootly so that the app does'nt Crashes.</br>
 
 To get the Timezone and time i have used the pytz module and timezonefinder module to get the timezone of the searched city.</br>
+
+```bash
+$ pip3 install -r requirements.txt
+```
+or 
+
+```bash
+$ pip install -r requirements.txt
+```
 
 ## Sample Video:
 ![weather app](https://user-images.githubusercontent.com/87264935/163821347-f988efc2-79ea-40cd-acae-e6e4d780e49e.gif)
