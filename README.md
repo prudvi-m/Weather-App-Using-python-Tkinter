@@ -54,7 +54,7 @@ $ pip install -r requirements.txt
 
 ### Running 
 
-> Please move to the waether-app folder after successful cloning then start running 
+> Following a successful clone, please move to the waether-app folder and then start running.
 
 ```bash
 $  python3 app.py
