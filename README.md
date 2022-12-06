@@ -13,7 +13,7 @@
 This app uses the Open weather Api to get the data of the weather. </br>
 It generates the data in the form of json.</br>
 
-## Technologies Used:
+## Packages Used:
 - OpenWeather Api
 - Pytz python Module
 - Timezonefinder Python Module
@@ -33,6 +33,16 @@ used the thread module to click on the search button so smootly so that the app 
 
 To get the Timezone and time i have used the pytz module and timezonefinder module to get the timezone of the searched city.</br>
 
+## Setup & Installation
+
+### Clone the Repo
+
+```bash
+$ git clone https://github.com/prudvi-m/weather-app
+```
+
+### Install the required packages
+
 ```bash
 $ pip3 install -r requirements.txt
 ```
@@ -42,8 +52,19 @@ or
 $ pip install -r requirements.txt
 ```
 
-## Sample Video:
-![weather app](https://user-images.githubusercontent.com/87264935/163821347-f988efc2-79ea-40cd-acae-e6e4d780e49e.gif)
+### Running 
+
+> Please move to the waether-app folder after successful cloning then start running 
+
+```bash
+$  python3 app.py
+```
+
+or 
+
+```bash
+$ python app.py
+```
 
 ## Screenshots:
 ![Empty Gui](https://user-images.githubusercontent.com/87264935/163683668-f659b80e-2ef2-4553-99d2-6f0728c7a968.png)
