@@ -7,11 +7,11 @@
 # weather-app
 
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
+
 ![weather](https://img.shields.io/badge/API-openweather-blue?style=flat-square&logo=api)
 
 ## About:
-This app uses the Open weather Api to get the data of the weather. </br>
-It generates the data in the form of json.</br>
+A user-friendly website that gives the detailed weather description of temperature, humidity, pressure, sunrise, and sunset timings of any city across the globe at that point of time.</br>
 
 ## Packages Used:
 - OpenWeather Api
@@ -43,6 +43,10 @@ $ git clone https://github.com/prudvi-m/weather-app
 
 ### Install the required packages
 
+> Following a successful clone, please move to the waether-app folder and then start running.
+
+### Installation
+
 ```bash
 $ pip3 install -r requirements.txt
 ```
@@ -53,8 +57,6 @@ $ pip install -r requirements.txt
 ```
 
 ### Running 
-
-> Following a successful clone, please move to the waether-app folder and then start running.
 
 ```bash
 $  python3 app.py
